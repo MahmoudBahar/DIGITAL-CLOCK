@@ -14,6 +14,7 @@ To enhance the clock's utility further, the design includes leap year detection.
 
 In summary, the Digital Clock project combines essential timekeeping functionalities with advanced features to offer users a versatile and practical timekeeping device. The clock incorporates a temperature sensor, light sensor, timer, alarm, and leap year detection.
 ## all copyrights are reserved to:
+- [Toqa Yasser](https://github.com/Toqa-yasser)
 - [Mahmoud Bahar](https://github.com/MahmoudBahar)
 - [Ahmed Hesham](https://github.com/aiiitsh)
-- [Ahmed Khaled]
+- [Ahmed Khaled](https://github.com/Louda511)
